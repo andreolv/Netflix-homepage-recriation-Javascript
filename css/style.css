@@ -13,7 +13,7 @@
 
 body{
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 
@@ -70,7 +70,7 @@ header nav a:hover{
 
 .titulo{
     font-size: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Arial', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top: 10%;
 }
 
@@ -111,4 +111,8 @@ header nav a:hover{
 
 #emAlta{
     margin-top: 20px;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
 }
