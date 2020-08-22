@@ -104,3 +104,11 @@ header nav a:hover{
     width: 100%;
     display: block;
 }
+
+.margining{
+    margin-top: 10px;
+}
+
+#emAlta{
+    margin-top: 20px;
+}
